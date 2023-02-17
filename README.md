@@ -96,7 +96,7 @@ Please note that the pipeline has been tested on Google Colab, and some of the f
 
 Metin Usta - metin.usta01@hotmail.com
 
-Muhannad Tuameh - 
+Muhannad Tuameh - muhannadtumah@gmail.com
 
 Project Link: [https://github.com/MetinUsta/Multiple-Choice-Distractor-Generator](https://github.com/MetinUsta/Multiple-Choice-Distractor-Generator)
 
